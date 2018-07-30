@@ -1,2 +1,0 @@
-# myfirstreactapp
-Created with CodeSandbox
